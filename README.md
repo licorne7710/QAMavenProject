@@ -1,0 +1,2 @@
+# QAMavenProject
+TestsTemplates with Maven
